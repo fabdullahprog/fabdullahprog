@@ -10,7 +10,7 @@
 ### 🌱 About Me
 - 🌱 I’m currently learning **ASP.NET Core**
 - 💻 I love building fullstack web applications
-- 📫 Email: **abdullah@gmail.com**
+- 📫 Email: **abdullahafn@gmail.com**
 
 ---
 
