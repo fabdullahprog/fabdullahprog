@@ -8,9 +8,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20" alt="Gmail" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-al-foysal-578788391/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn" style="vertical-align:middle;"/>
-  </a>
+<a href="https://www.linkedin.com/in/abdullah-al-foysal-578788391/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" alt="LinkedIn" />
+</a>
 </p>
 
 
