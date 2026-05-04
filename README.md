@@ -8,22 +8,19 @@
 <p align="center">
   <!-- Email -->
   <a href="https://mail.google.com/mail/?view=cm&to=abdullahafn@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="28" />
   </a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=abdullahafn@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=abdullahafn@gmail.com" style="font-size: 18px; font-weight: bold;">
     <strong>Email Me</strong>
   </a>
-
-   
-
+  &emsp;&emsp;
   <!-- LinkedIn -->
-
   <a href="https://www.linkedin.com/in/abdullah-prog/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-prog/">
+  <a href="https://www.linkedin.com/in/abdullah-prog/" style="font-size: 18px; font-weight: bold;">
     <strong>LinkedIn Profile</strong>
   </a>
 </p>
