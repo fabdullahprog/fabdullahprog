@@ -3,12 +3,7 @@
   <strong>.NET Full Stack Developer</strong><br>
   <em style="color: #87CEFA; font-size: 0.95rem;">C# | MVC | MSSQL Server</em>
 </p>
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
 
-<p align="center">
-  <strong>.NET Full Stack Developer</strong><br>
-  <em style="color: #87CEFA; font-size: 0.95rem;">C# | MVC | MSSQL Server</em>
-</p>
 
 <p align="center">
   <!-- Email -->
