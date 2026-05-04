@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center"> Abdullah Al Foysal</h1>
 <p align="center">
   <strong>.NET Full Stack Developer</strong><br>
   <em style="color: #87CEFA; font-size: 0.95rem;">C# | MVC | MSSQL Server</em>
 </p>
-
-
 <p align="center">
   <!-- Email -->
   <a href="https://mail.google.com/mail/?view=cm&to=abdullahafn@gmail.com">
@@ -25,33 +23,26 @@
   </a>
 </p>
 
-
-
-
-
-</p><p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fabdullahprog&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-###  About Me
+### About Me
 I'm Abdullah  
-
-💻 .NET Backend Developer (C#, ASP.NET Core)  
+💻 .NET Backend Developer (C#, [ASP.NET](http://ASP.NET) Core)  
 🚀 Focused on building scalable REST APIs  
 🗄️ MSSQL | MongoDB  
-
 ⚡ Experience with MVC, API Development & Clean Architecture concepts  
-🌐  Familiar with React & Angular 
-
+🌐 Familiar with React & Angular  
 📚 Passionate about learning and writing clean code  
-
 
 ---
 
-### 🧠 Skills
 
+
+### 🧠 Skills
 #### 💻 Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
@@ -76,10 +67,27 @@ I'm Abdullah
 #### 🗄️ Database
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
 #### 🛠️ Tools
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg" width="40" alt="TortoiseGit"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/> </p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg" width="40" alt="TortoiseGit"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/>
+</p>
+
+### 📊 Profile Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabdullahprog&label=Total%20Visitors&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabdullahprog&theme=tokyonight&hide_border=true&card_width=600" width="70%" />
+</p>
+
+
+
 
