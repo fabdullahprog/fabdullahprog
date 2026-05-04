@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=abdullahafn@gmail.com" style="font-size: 18px; font-weight: bold;">
-    <strong>Email Me</strong>
+    <strong>Email</strong>
   </a>
   &emsp;&emsp;
   <!-- LinkedIn -->
@@ -21,7 +21,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdullah-prog/" style="font-size: 18px; font-weight: bold;">
-    <strong>LinkedIn Profile</strong>
+    <strong>LinkedIn</strong>
   </a>
 </p>
 
