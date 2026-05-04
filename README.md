@@ -67,10 +67,4 @@ I'm Abdullah
 
 #### 🛠️ Tools
 <p align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg" width="40" alt="TortoiseGit"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/> </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabdullahprog&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabdullahprog&layout=compact&theme=tokyonight" />
-</p>
